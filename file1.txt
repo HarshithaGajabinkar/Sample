@@ -1,3 +1,0 @@
-firstline in file1.txt
-secondline in file1.txt
-thirdline in file1.txtfourthline in file1.txt
